@@ -19,8 +19,8 @@ module.exports = {
 
     // 🔐 ADMIN-ONLY LOCK (Main + 2 Optional)
     const allowedUsers = [
-      "61583867166676", // Main Admin: Helal
-      "Uid2", // Optional Admin Slot 1
+      "61586475611589", // Main Admin: Helal
+      "61585520407950", // Optional Admin Slot 1
       "Uid3"  // Optional Admin Slot 2
     ];
 
