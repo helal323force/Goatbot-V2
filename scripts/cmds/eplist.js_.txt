@@ -3,7 +3,7 @@ module.exports = {
     name: "eplist",
     version: "1.0.1",
     permission: 0,
-    credits: "Helal",
+    credits: "Helalg",
     description: "Show Ephoto template list in simple UI",
     category: "textmaker",
     usages: "/eplist",
