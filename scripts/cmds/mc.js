@@ -45,10 +45,7 @@ module.exports = {
 
 🎮 Online Players (Top 10):
 ${playerList}
-
-🖼️ Icon: ${data.icon ? "✅ Available" : "❌ Not found"}
 ━━━━━━━━━━━━━━━━━━━━━━
-👑 Coded by Helal
 `;
 
       return message.reply(msg);
