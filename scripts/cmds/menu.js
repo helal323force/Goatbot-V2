@@ -51,7 +51,7 @@ module.exports = {
     // Create category sections
     for (const [cat, cmds] of Object.entries(categories)) {
       menu += `
-╭───────❍📦❍────────╮ ${convertFont(cat)}\n`;
+╭──────❍📦❍──────╮ ${convertFont(cat)}\n`;
 
       const pairs = chunkArray(cmds, 2);
       for (const row of pairs) {
