@@ -3,7 +3,7 @@ const fs = require("fs");
 module.exports = {
   config: {
     name: "help",
-    aliases: ["menu"],
+    aliases: ["cmd"],
     version: "1.6",
     author: "Helal",
     role: 0,
